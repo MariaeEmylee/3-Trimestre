@@ -7,4 +7,5 @@ header,footer {background-color: #499CBA; color:ceeffc;text-align: center;font-s
 main {background-color:#8ddefc;}
 PRIMEIROPARAGRAFO{text-align:justify; font-size: 18px;border: black solid 2px; padding: 10px; margin: 10px;}
 SEGUNDOPARAGRAFO {text-align: justify; font-size: 18px; border: black solid 2px; padding: 10px; margin:10px;}
-#TITULO
+#TITULOIMAGEM{text-align {width: 5%; height: 5%;}
+#LISTA {display:inline-block;}
